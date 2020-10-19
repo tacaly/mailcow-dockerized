@@ -1,4 +1,4 @@
-# mailcow: dockerized - 🐮 + 🐋 = 💕
+# Tacaly mailcow: dockerized build - 🐮 + 🐋 = 💕
 
 ## Want to support mailcow?
 
